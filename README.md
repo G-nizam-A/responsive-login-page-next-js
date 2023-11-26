@@ -6,9 +6,9 @@
 
 ## Login Page - Mobile Version
 
-![Mobile Version](screenshots/SharedScreenshot-Mobile.jpg)
+![Mobile Version](screenshot/SharedScreenshot-Mobile.jpg)
 
-[Click here for a larger view](screenshots/SharedScreenshot-Mobile.jpg)
+[Click here for a larger view](screenshot/SharedScreenshot-Mobile.jpg)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
