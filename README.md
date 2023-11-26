@@ -1,8 +1,8 @@
 ## Login Page - Desktop Version
 
-![Desktop Version](screenshot/SharedScreenshot.jpg)
+![Desktop Version](screenshot/SharedScreenshot-Desktop.jpg)
 
-[Click here for a larger view](screenshot/SharedScreenshot.jpg)
+[Click here for a larger view](screenshot/SharedScreenshot-Mobile.jpg)
 
 ## Login Page - Mobile Version
 
