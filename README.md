@@ -2,7 +2,7 @@
 
 ![Desktop Version](screenshot/SharedScreenshot-Desktop.jpg)
 
-[Click here for a larger view](screenshot/SharedScreenshot-Mobile.jpg)
+[Click here for a larger view](screenshot/SharedScreenshot-Desktop.jpg)
 
 ## Login Page - Mobile Version
 
