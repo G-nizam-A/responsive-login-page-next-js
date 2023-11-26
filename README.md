@@ -1,3 +1,15 @@
+## Login Page - Desktop Version
+
+![Desktop Version](screenshot/SharedScreenshot.jpg)
+
+[Click here for a larger view](screenshot/SharedScreenshot.jpg)
+
+## Login Page - Mobile Version
+
+![Mobile Version](screenshots/SharedScreenshot-Mobile.jpg)
+
+[Click here for a larger view](screenshots/SharedScreenshot-Mobile.jpg)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
